@@ -66,14 +66,3 @@ buildExpired = false
     name = "Tags"
     url = "/tags/"
     weight = 3
-  [[menu.main]]
-    identifier = "archives"
-    name = "Archives"
-    url = "/archives/"
-    weight = 5
-  
-  [[menu.main]]
-    identifier = "search"
-    name = "Search"
-    url = "/search/"
-    weight = 6
